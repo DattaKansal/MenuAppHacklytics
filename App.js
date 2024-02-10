@@ -17,7 +17,7 @@ export default function App() {
           loading={
             // eslint-disable-next-line react/jsx-wrap-multilines
             <View style={styles.container}>
-              <ActivityIndicator color={colors.red} />
+              <ActivityIndicator color={colors.blue} />
             </View>
           }
           persistor={persistor}
